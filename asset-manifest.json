@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AccordionComponent-5thTrainingReactTask/static/css/main.41a19a12.css",
+    "main.js": "/AccordionComponent-5thTrainingReactTask/static/js/main.0dcafdec.js",
+    "index.html": "/AccordionComponent-5thTrainingReactTask/index.html",
+    "main.41a19a12.css.map": "/AccordionComponent-5thTrainingReactTask/static/css/main.41a19a12.css.map",
+    "main.0dcafdec.js.map": "/AccordionComponent-5thTrainingReactTask/static/js/main.0dcafdec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a19a12.css",
+    "static/js/main.0dcafdec.js"
+  ]
+}
