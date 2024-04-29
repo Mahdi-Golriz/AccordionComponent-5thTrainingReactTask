@@ -1,5 +1,5 @@
 # Project Title 
-Travel List React application
+Accordion Component React application
 
 ## Table of contents
 * [About](#about)
