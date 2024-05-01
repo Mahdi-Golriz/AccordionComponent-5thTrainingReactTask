@@ -12,7 +12,6 @@ Accordion Component React application
   * Fundamentals of State Management
   * Lifting Up State
   * Derived State
-ا
  
 ## Technologies
 Project is created with:
